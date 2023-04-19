@@ -1,0 +1,60 @@
+.container{
+    width: 40%;
+    height: 70vh;
+    margin: 100px auto;
+}
+p{
+    font-size: 25px;
+    padding: 15px 0;
+}
+input{
+    width: 70%;
+    height: 50px;
+    padding: 5px;
+    border: 3px solid black;
+}
+.todo-btn{
+    width: 30%;
+    height: 50px;
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+ul{
+    margin-top: 20px;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    padding: 10px 0;
+}
+.btn:hover{
+    background: red;
+}
+.none{
+    width: 15%;
+    height: 50px;
+    font-size: 30px;
+    align-items: center;
+    color: red;
+    margin: 0 auto;
+}
+
+
+/* CONNECT */
+.container-box{
+    width: 15%;
+    height: 50vh;
+    margin: 0 auto;
+}
+.btnbottom{
+    width: 80%;
+    height: 50px;
+    background: black;
+    border-radius: 50px;
+    margin-top: 20px;
+    color: white;
+    cursor: pointer;
+}
